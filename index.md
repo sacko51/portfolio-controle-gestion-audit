@@ -96,7 +96,7 @@ layout: null
     <p class="profile-subtitle">Contrôleur de Gestion — À la recherche d'un stage de fin d'études</p>
     <p>Je suis un futur contrôleur de gestion issu d'un parcours Contrôle de Gestion et Audit Organisationnel.</p>
     <p>J'apporte une vision transversale du pilotage de la performance, de l'analyse budgétaire au reporting stratégique, en passant par l'évaluation du contrôle interne, pour aider les entreprises à sécuriser leurs décisions sur des bases financières fiables.</p>
-    <p><strong>+33 7 69 42 46 48 · sackobaka604@gmail.com</strong></p>
+    <p><strong>+33 7 69 42 46 48 · sacko_bakary@outlook.com</strong></p>
     <div class="tech-stack"><strong>Stack Technique :</strong> Excel avancé, Power BI, DAX, Word, PowerPoint, Access, SAP, Ciel, Cegid, Ingeneo, Meg, Dext.</div>
   </div>
 </div>
