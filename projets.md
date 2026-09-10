@@ -94,7 +94,7 @@ layout: null
       Missions : Diagnostic financier sur 3 exercices et analyse de rentabilité par activité (comptabilité analytique, clés de répartition), révélant un effet de ciseaux masse salariale/CA de +4,8 points. Construction d'un modèle budgétaire avec décomposition des écarts (volume/coût), d'un tableau de bord de 18 KPI et d'un dashboard Power BI (4 pages, 24 mesures DAX).
     </div>
     <div class="btn-group">
-      <a href="#" class="btn" target="_blank">Voir le projet</a>
+      <a href="https://github.com/sacko51/chhs-controle-gestion" class="btn" target="_blank">Voir le projet</a>
     </div>
     <div class="project-tools">Outils : Excel avancé, Power BI, DAX.</div>
   </div>
@@ -106,7 +106,7 @@ layout: null
       Missions : Audit d'un journal comptable de 3 015 écritures via 9 tests de détection automatisés (doublons, TVA incohérente, anomalies), et cartographie des risques selon le référentiel COSO. Modélisation prévisionnelle N+1 à 3 scénarios avec analyse de sensibilité, débouchant sur un plan d'action chiffré à +1 850 k€ de gain potentiel annuel.
     </div>
     <div class="btn-group">
-      <a href="#" class="btn" target="_blank">Voir le projet</a>
+      <a href="https://github.com/sacko51/chhs-controle-gestion" class="btn" target="_blank">Voir le projet</a>
     </div>
     <div class="project-tools">Outils : Contrôle interne, Modélisation financière.</div>
   </div>
