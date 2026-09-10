@@ -147,7 +147,7 @@ layout: null
   <p>Besoin d'un regard analytique et rigoureux sur votre pilotage financier ?</p>
 
   <div class="contact-buttons">
-    <a href="mailto:sackobaka604@gmail.com" class="btn-solid">Email</a>
-    <a href="#" class="btn-solid" target="_blank">LinkedIn</a>
+    <a href="mailto:sacko_bakary@outlook.com" class="btn-solid">Email</a>
+    <a href="https://www.linkedin.com/in/bakary-sacko-/" class="btn-solid" target="_blank">LinkedIn</a>
   </div>
 </div>
