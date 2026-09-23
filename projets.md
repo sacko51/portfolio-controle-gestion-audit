@@ -110,5 +110,27 @@ layout: null
     </div>
     <div class="project-tools">Outils : Contrôle interne, Modélisation financière.</div>
   </div>
+  <div class="project-card">
+    <h3 class="project-title">Contrôle de Gestion Industriel</h3>
+    <div class="project-desc">
+      <strong>Comparaison des méthodes de calcul des coûts pour une PME industrielle fictive (Mécano-Est SAS).</strong><br><br>
+      Missions : Comparaison coûts complets méthode traditionnelle vs méthode ABC (5 inducteurs d'activité) sur deux gammes de production, révélant un subventionnement croisé entre les gammes standard et sur-mesure. Valorisation des stocks selon les méthodes FIFO et PUMP, et analyse du seuil de rentabilité et du risque d'exploitation.
+    </div>
+    <div class="btn-group">
+      <a href="https://github.com/sacko51/Mecano-Est" class="btn" target="_blank">Voir le projet</a>
+    </div>
+    <div class="project-tools">Outils : Excel avancé (modélisation formulée), comptabilité analytique.</div>
+  </div>
 
+  <div class="project-card">
+    <h3 class="project-title">Gestion de Trésorerie & Pilotage du BFR</h3>
+    <div class="project-desc">
+      <strong>Plan de trésorerie prévisionnel et pilotage du BFR pour une PME fictive de négoce et distribution.</strong><br><br>
+      Missions : Construction d'un plan de trésorerie glissant sur 12 mois (encaissements, décaissements, TVA), diagnostic d'une impasse de trésorerie liée à un effet de ciseau du BFR en phase de croissance, suivi des indicateurs DSO/DPO, et modélisation d'un scénario de financement corrigé neutralisant l'impasse.
+    </div>
+    <div class="btn-group">
+      <a href="https://github.com/sacko51/Tresorerie-BFR" class="btn" target="_blank">Voir le projet</a>
+    </div>
+    <div class="project-tools">Outils : Excel avancé (modélisation formulée), gestion de trésorerie.</div>
+  </div>
 </div>
