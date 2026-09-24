@@ -93,9 +93,9 @@ layout: null
   </div>
   <div class="profile-text">
     <p class="profile-title">Bakary SACKO</p>
-    <p class="profile-subtitle">Contrôleur de Gestion — À la recherche d'un stage de fin d'études</p>
-    <p>Je suis un futur contrôleur de gestion issu d'un parcours Contrôle de Gestion et Audit Organisationnel.</p>
-    <p>J'apporte une vision transversale du pilotage de la performance, de l'analyse budgétaire au reporting stratégique, en passant par l'évaluation du contrôle interne, pour aider les entreprises à sécuriser leurs décisions sur des bases financières fiables.</p>
+    <p class="profile-subtitle">Contrôle de gestion & Audit - Stage / Alternance</p>
+    <p> Je suis étudiant en Master Contrôle de Gestion et Audit Organisationnel (CGAO), avec une formation en comptabilité, finance, contrôle de gestion et audit. Je m’intéresse à l’analyse de la performance des organisations, à la fiabilisation de l’information financière et à l’identification des risques et des anomalies.</p>
+    <p> Mon approche combine analyse financière, suivi des indicateurs de performance (KPI), contrôle budgétaire et analyse des processus et du contrôle interne. Je développe également mes compétences en analyse et en visualisation des données à travers Excel et Power BI, afin de produire des reportings et des tableaux de bord utiles à la prise de décision.</p>
     <p><strong>+33 7 69 42 46 48 · sacko_bakary@outlook.com</strong></p>
     <div class="tech-stack"><strong>Stack Technique :</strong> Excel avancé, Power BI, DAX, Word, PowerPoint, Access, SAP, Ciel, Cegid, Ingeneo, Meg, Dext.</div>
   </div>
